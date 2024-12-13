@@ -1,0 +1,7 @@
+E:\Visual Studio\ShowcaseProjects\ATM\bin\Debug\ATM.exe.config
+E:\Visual Studio\ShowcaseProjects\ATM\bin\Debug\ATM.exe
+E:\Visual Studio\ShowcaseProjects\ATM\bin\Debug\ATM.pdb
+E:\Visual Studio\ShowcaseProjects\ATM\obj\Debug\ATM.csproj.AssemblyReference.cache
+E:\Visual Studio\ShowcaseProjects\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+E:\Visual Studio\ShowcaseProjects\ATM\obj\Debug\ATM.exe
+E:\Visual Studio\ShowcaseProjects\ATM\obj\Debug\ATM.pdb

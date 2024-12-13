@@ -1,0 +1,7 @@
+E:\Visual Studio\ShowcaseProjects\TimeTable\bin\Debug\TimeTable.exe.config
+E:\Visual Studio\ShowcaseProjects\TimeTable\bin\Debug\TimeTable.exe
+E:\Visual Studio\ShowcaseProjects\TimeTable\bin\Debug\TimeTable.pdb
+E:\Visual Studio\ShowcaseProjects\TimeTable\obj\Debug\TimeTable.csproj.AssemblyReference.cache
+E:\Visual Studio\ShowcaseProjects\TimeTable\obj\Debug\TimeTable.csproj.CoreCompileInputs.cache
+E:\Visual Studio\ShowcaseProjects\TimeTable\obj\Debug\TimeTable.exe
+E:\Visual Studio\ShowcaseProjects\TimeTable\obj\Debug\TimeTable.pdb

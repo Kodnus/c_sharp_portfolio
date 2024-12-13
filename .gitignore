@@ -1,0 +1,31 @@
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.[Cc]ache
+*.[Pp]rint
+*.[Dd]ebug
+*.[Dd]ebugPublic
+*.[Rr]elease
+*.[Rr]eleasePublic
+
+.vs/
